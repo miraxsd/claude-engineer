@@ -1863,7 +1863,6 @@ async def main():
     console.print("Type '11labs off' to disable text-to-speech.")
     console.print("While in automode, press Ctrl+C at any time to exit the automode to return to regular chat.")
 
-    voice_mode = False
 
     while True:
         
